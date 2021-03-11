@@ -1,2 +1,2 @@
 # mockjson
-Fake API
+Fake API for Endterm project
